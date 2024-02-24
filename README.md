@@ -1,3 +1,9 @@
+# Car rent service using RapidApi
+
+Here you can benefit from SSR filtering the car list any way you want to
+
+Full compatibility of tailwind and headless UI
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
